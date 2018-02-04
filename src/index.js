@@ -16,7 +16,7 @@ const Greeting = () => (
 const App = () => (
   <div style={styles}>
     <Hello name="Chris" />
-    <h2>We are editing and deploying in the cloud </h2>
+    <h2>Saving Code to Github</h2>
     <Greeting />
   </div>
 );
